@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/DXEditors_ColorEdit/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXEditors_ColorEdit/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DXEditors_ColorEdit/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXEditors_ColorEdit/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXEditors_ColorEdit/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXEditors_ColorEdit/MainWindow.xaml.vb))
 <!-- default file list end -->
 # ColorEdit - Create Custom Palettes
 
