@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXEditors_ColorEdit", "DXEditors_ColorEdit\DXEditors_ColorEdit.csproj", "{69B5B7DC-13D8-44BE-9DE3-24AFFB62E4E1}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXEditors_ColorEdit", "DXEditors_ColorEdit\DXEditors_ColorEdit.Net5.csproj", "{69B5B7DC-13D8-44BE-9DE3-24AFFB62E4E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
